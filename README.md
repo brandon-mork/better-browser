@@ -8,7 +8,6 @@ Better Browser empowers users to shape their own web experience, defining and sh
 
 ## MVP Under Development
 
-Draft application architecture:
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/611a4d792ecb310fc3cd0adf'> </iframe>
+Draft application architecture: https://dbdiagram.io/d/611a4d792ecb310fc3cd0adf
 
 If you are interested in collaborating, reach out to me! I am happy to attempt to integrate technical or non-technical volunteers into the development of this tool.
