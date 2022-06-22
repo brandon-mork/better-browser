@@ -1,0 +1,13 @@
+{
+  "name": "Better Browser",
+  "version": "0.0.0",
+  "description": "Configuration to make the web work with you, not against you.",
+  "homepage_url": "https://github.com/brandon-mork/better-browser",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon.png"
+  },
+  "page_action": {
+    "default_icon": "icon.png"
+  }
+}
