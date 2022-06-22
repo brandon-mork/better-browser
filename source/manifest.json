@@ -9,5 +9,6 @@
   },
   "page_action": {
     "default_icon": "icon.png"
-  }
+  },
+  "content_scripts": [{ "matches": ["https://www.facebook.com/"], "css": ["facebook.css"] }]
 }
